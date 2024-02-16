@@ -15,6 +15,10 @@ public class ExamStudent {
     public int getMarks() {
         return marks;
     }
+    public hindisubject(){
+        return subject;
+    }
+
 
     public String teluguSubject(){
         return teluguSubject;
