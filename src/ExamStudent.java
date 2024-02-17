@@ -23,6 +23,21 @@ public class ExamStudent {
     public String teluguSubject(){
         return teluguSubject;
     }
+    public hindisubject(){
+        return subject;
+    }
+
+
+    public String teluguSubject(){
+        return teluguSubject;
+    }
+
+    public String studentName(){
+        return studentName;
+    }
+
+
+
 
 
 }
